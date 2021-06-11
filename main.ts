@@ -51,5 +51,5 @@ input.onButtonPressed(Button.B, function () {
 })
 basic.forever(function () {
     basic.showString("ARYAN")
-    basic.pause(2000)
+    basic.pause(100)
 })
